@@ -1,4 +1,4 @@
-# task1 in SmartMwthods
+# task1
 # install ros in ubuntu
 
 
